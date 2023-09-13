@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+}
+
+.project{
+    
+    display: flex;
+    height: 100vh;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.project1{
+    width: 60px;
+    border: solid black;
+}

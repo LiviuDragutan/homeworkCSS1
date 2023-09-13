@@ -1,0 +1,19 @@
+.parent{
+    height: 100vh;
+    width: 100%;
+}
+
+.classAbsolute {
+    height: 100vh;
+    width: 100%;
+    position: absolute;
+    right: 16px;
+    bottom: 16px;
+    top: 0px;
+    left: 0px;
+    
+}
+    
+.classRelative{
+    position: relative;
+}
